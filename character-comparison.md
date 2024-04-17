@@ -1,5 +1,5 @@
 | Character | EaseOfUse* | UnusualMechanism | projectiles|  | CommandGrab |  Charge | Stock | Teleport | Disadvantages |
-| :--- | :-- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: | :-- |
+| :--- | :-- | :-- | :-----------: | :--: | :-- | :--: | :--: | :--: | :-- |
 | Aki  || | ✅ | | | | | ❌ | | slow poison ball recovery |
 | Blanka  |Medium| BlankaBalls| ❌ |  | ✅ | | Y | ❌ | ||
 | Cammy |Medium| | ❌ | | | | | ❌ | ||
