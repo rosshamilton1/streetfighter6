@@ -1,5 +1,6 @@
 | Character | EaseOfUse* | UnusualMechanism | projectiles| placeholder | CommandGrab |  Charge | Stock | Teleport | Disadvantages |
 | :--- | :-- | :-- | :-----------: | :--: | :-- | :--: | :--: | :--: | :-- |
+| Akuma |Easy| Denjin | ✅ |  | ❌ | | | ✅ | | |
 | Aki  || | ✅ | | | | | ❌ | | slow poison ball recovery |
 | Akuma |Easy| Denjin | ✅ |  | ❌ | | | ✅ | | |
 | Blanka  |Medium| BlankaBalls| ❌ |  | ✅ | | Y | ❌ | | | 
