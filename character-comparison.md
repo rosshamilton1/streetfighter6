@@ -1,4 +1,4 @@
 | Character | Projectiles | anti-airs | CommandGrab |
 | :--- | :-----------: | -- | -- |
-| Ryu | Title | | |
-| Ken | Text | | |
+| Ryu | Y | | |
+| Ken | Y | | |
