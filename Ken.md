@@ -3,10 +3,12 @@
 ← → ↑ ↓ ↖ ↗ ↘ ↙
 ← → ↑ ↓ ↖ ↗ ↘ ↙
 ← → ↑ ↓ ↖ ↗ ↘ ↙
-↓ ↙ ← K Hurrican Kick
-↓ ↘ → P Hadoken
-↓ ↘ → K Dragonlash kick
-→ ↓ ↘ P Dragon Punch
+### Moves
+| Do this | Description |
+|↓ ↙ ← K| Hurricane Kick |
+|↓ ↘ → P| Hadoken |
+|↓ ↘ → K| Dragonlash kick |
+|→ ↓ ↘ P| Dragon Punch |
 
 ### Combos
 | Do this | Descripton |
