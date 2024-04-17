@@ -5,11 +5,11 @@
 | Cammy |Medium| | ❌ | | | | | ❌ | ||
 | Chun Li |Hard| Stance | ✅ |  | | | | ❌ | ||
 | Deejay |Hard| | ✅ | | | | | ❌ | ||
-| Dhalsim |Hardest| | ✅ | | | | |  | Y ||
+| Dhalsim |Hardest| | ✅ | | | | | ✅ | Y ||
 | E Honda |V Easy| | ❌ |  | | Y | Y | ❌ | Y ||
 | Guile |V Easy| | ✅ | | | | Y | ❌ | ||
 | Jamie |Hardest| drinks| ❌ | | | Y | | ❌ | ||
-| JP |Hard| | ✅ | | | Y | | Y | ||
+| JP |Hard| | ✅ | | | Y | | ✅ | ||
 | Juri |Medium| Stocks | ✅ | | | Y | | ❌ | ||
 | Ken |Easy| | ✅ | Y | | | | ❌ | ||
 | Kimberly |Hard| Cans| ❌ |  | | | | ❌ | Y ||
