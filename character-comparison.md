@@ -14,7 +14,7 @@
 | Kimberly |Hard| | Ninja|  | | | | Y | Y |
 | Lilly |V Easy| | Ninja|  | | | | Y | Y |
 | Luke |Easy| Perfect mech|Shoto| Y | | | | | |
-| Manon |Medium| | levels up|  | | |Y |  |  |
+| Manon |Medium| levels up | |  | | |Y |  |  |
 | Marisa |Easy| | |  | | | |  |  |
 | Ryu |Easy| |Shoto| Y | | | | | |
 | Zangief |Hardest| |Grappler|  | | Y | | | |
