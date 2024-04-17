@@ -6,7 +6,7 @@
 | Chun Li |Hard| Stance | ✅ |  | | | | ❌ | ||
 | Deejay |Hard| | ✅ | | | | | ❌ | ||
 | Dhalsim |Hardest| | ✅ | | | | | ✅ | Y ||
-| E Honda |V Easy| | ❌ |  | | Y | Y | ❌ | Y ||
+| E Honda |V Easy| | ❌ |  | ✅ | Y | Y | ❌ | Y ||
 | Guile |V Easy| | ✅ | | | | Y | ❌ | ||
 | Jamie |Hardest| drinks| ❌ | | ✅ | Y | | ❌ | ||
 | JP |Hard| | ✅ | | | Y | | ✅ | ||
