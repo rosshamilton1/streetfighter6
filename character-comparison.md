@@ -1,26 +1,26 @@
 | Character | EaseOfUse* | UnusualMechanism | projectiles| anti-projectile tools | CommandGrab |  Charge | Stock | Teleport | 
 | :--- | :-- | :-- | :-----------: | :--: | :-- | :--: | :--: | :--: | :-- | :--- |
 | Aki  || Poison | ✅ | v good  | ✅ | ? | N | ❌ | 
-| Akuma |Easy| Denjin | ✅ |  | ❌ | | | ✅ | | |
-| Blanka  |Medium| BlankaBalls| ❌ |  | ✅ | | Y | ❌ | | | 
-| Cammy |Medium| | ❌ | | | | | ❌ | | |
-| Chun Li |Hard| Stance | ✅ |  | ✅ air | | | ❌ | | |
-| Deejay |Hard| | ✅ | | | | | ❌ | | |
-| Dhalsim |Hardest| | ✅ | | | | | ✅ |  | | 
-| E Honda |V Easy| | ❌ |  | ✅ | Y | Y | ❌ |  | |
-| Guile |V Easy| | ✅ | |  ✅ air | | Y | ❌ | | |
-| Jamie |Hardest| drinks| ❌ | | ✅ | Y | | ❌ | | |
-| JP |Hard| | ✅ | | ✅ |  | | ✅ | | |
-| Juri |Medium| Stocks | ✅ | | | Y | | ❌ | | |
-| Ken |Easy| | ✅ |  | | | | ❌ | |Everybody knows how to play against shotos|
-| Kimberly |Hard| Cans| ❌ |  | ✅ air | | | ❌ |  ||
-| Lilly |V Easy| | ❌ |  | | ✅| | ❌ |  ||
-| Luke |Easy| Perfect mech| ✅ |  | | | |❌ | |Everybody knows how to play against shotos|
-| Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
-| Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |  ||
-| Rashid || | ✅ |  | ❌ | | | ❌ | ||
-| Ryu |Easy| Denjin | ✅ |  | ❌ | | | ❌ | |Everybody knows how to play against shotos|
-| Zangief |Hardest| | ❌ |  | ✅ |  | | ❌ |  ||
+| Akuma |Easy| Denjin | ✅ |  | ❌ | | | ✅ | 
+| Blanka  |Medium| BlankaBalls| ❌ |  | ✅ | | Y | ❌ | 
+| Cammy |Medium| | ❌ | | | | | ❌ |
+| Chun Li |Hard| Stance | ✅ |  | ✅ air | | | ❌ |
+| Deejay |Hard| | ✅ | | | | | ❌ |
+| Dhalsim |Hardest| | ✅ | | | | | ✅ | 
+| E Honda |V Easy| | ❌ |  | ✅ | Y | Y | ❌ |
+| Guile |V Easy| | ✅ | |  ✅ air | | Y | ❌ |
+| Jamie |Hardest| drinks| ❌ | | ✅ | Y | | ❌ |
+| JP |Hard| | ✅ | | ✅ |  | | ✅ |
+| Juri |Medium| Stocks | ✅ | | | Y | | ❌ |
+| Ken |Easy| | ✅ |  | | | | ❌ |
+| Kimberly |Hard| Cans| ❌ |  | ✅ air | | | ❌ |
+| Lilly |V Easy| | ❌ |  | | ✅| | ❌ |
+| Luke |Easy| Perfect mech| ✅ |  | | | |❌ |
+| Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |
+| Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |
+| Rashid || | ✅ |  | ❌ | | | ❌ |
+| Ryu |Easy| Denjin | ✅ |  | ❌ | | | ❌ |
+| Zangief |Hardest| | ❌ |  | ✅ |  | | ❌ |
 
 * for beginners
 
