@@ -1,4 +1,4 @@
-| Character | EaseOfUse* | UnusualMechanism | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock | Teleport | Disadvantages |
+| Character | EaseOfUse* | UnusualMechanism | | anti-projectiles | CommandGrab |  Charge | Stock | Teleport | Disadvantages |
 | :--- | :-- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: | :-- |
 | Aki  || ||  | | | Y | Y | | slow poison ball recovery |
 | Blanka  |Medium| BlankaBalls||  | | | Y | Y | ||
