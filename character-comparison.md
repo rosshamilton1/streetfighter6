@@ -18,6 +18,7 @@
 | Luke |Easy| Perfect mech| ✅ |  | | | |❌ | ||
 | Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
 | Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |  ||
+| Rashid |Easy| | ✅ |  | ❌ | | | ❌ | ||
 | Ryu |Easy| Denjin | ✅ |  | ❌ | | | ❌ | ||
 | Zangief |Hardest| | ❌ |  | ✅ |  | | ❌ |  ||
 
