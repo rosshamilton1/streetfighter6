@@ -7,7 +7,7 @@
 | Dhalsim |Hardest| || Y | | | | | Y |
 | E Honda |V Easy| |Sumo|  | | Y | Y | | Y |
 | Guile |V Easy| || Y | | | Y | | |
-| Jamie |Hardest| || | | Y | | Y | |
+| Jamie |Hardest| drinks|| | | Y | | Y | |
 | JP |Hard| || | | Y | | Y | |
 | Juri |Medium| || | | Y | | Y | |
 | Ken |Easy| |Shoto| Y | | | | | |
