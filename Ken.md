@@ -5,6 +5,7 @@
 ← → ↑ ↓ ↖ ↗ ↘ ↙
 ### Moves
 | Do this | Description |
+| ------- | ----------- |
 |↓ ↙ ← K| Hurricane Kick |
 |↓ ↘ → P| Hadoken |
 |↓ ↘ → K| Dragonlash kick |
