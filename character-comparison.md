@@ -1,8 +1,9 @@
 | Character | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock | Teleport |
 | :--- | :-----------: | :--: | :--: | :--: | :--: | :--: |
+| Blanka  |  | | | Y | | |
 | Chun Li  | Y | | | | | |
 | Dhalsim | Y | | | | | Y |
-| Guile | Y | | | | | |
+| Guile | Y | | | Y | | |
 | Jamie | | | Y | | Y | |
 | Ken | Y | | | | | |
 | Kimberly |  | | | | Y | Y |
