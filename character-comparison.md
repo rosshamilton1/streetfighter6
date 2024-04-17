@@ -1,4 +1,4 @@
-| Character | Projectiles |
-| --- | ----------- |
-| Ryu | Title |
-| Ken | Text |
+| Character | Projectiles | CommandGrab |
+| --- | ----------- | |
+| Ryu | Title | |
+| Ken | Text | |
