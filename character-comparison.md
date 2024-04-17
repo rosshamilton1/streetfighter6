@@ -1,6 +1,6 @@
 | Character | EaseOfUse* | UnusualMechanism | projectiles|  | CommandGrab |  Charge | Stock | Teleport | Disadvantages |
 | :--- | :-- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: | :-- |
-| Aki  || |✅| - [x] | | | | Y | | slow poison ball recovery |
+| Aki  || | ✅ | - [x] | | | | Y | | slow poison ball recovery |
 | Blanka  |Medium| BlankaBalls||  | | | Y | Y | ||
 | Cammy |Medium| || ✅ | | | | | ||
 | Chun Li |Hard| | ✅ |  | | | | | ||
@@ -9,7 +9,7 @@
 | E Honda |V Easy| | N |  | | Y | Y | | Y ||
 | Guile |V Easy| | ✅ | | | | Y | | ||
 | Jamie |Hardest| drinks| N | | | Y | | Y | ||
-| JP |Hard| |Y| | | Y | | Y | ||
+| JP |Hard| | ✅ | | | Y | | Y | ||
 | Juri |Medium| Stocks |N| | | Y | | Y | ||
 | Ken |Easy| | ✅ | Y | | | | | ||
 | Kimberly |Hard| Cans| Y|  | | | | Y | Y ||
