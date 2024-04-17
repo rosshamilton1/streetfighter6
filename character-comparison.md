@@ -16,7 +16,7 @@
 | Lilly |V Easy| | ❌ |  | | ✅| | ❌ | Y ||
 | Luke |Easy| Perfect mech| ✅ | Y | | | |❌ | ||
 | Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
-| Marisa |Easy| | ❌ |  | | | | ❌ |  ||
+| Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |  ||
 | Ryu |Easy| Denjin | ✅ | Y | ❌ | | | ❌ | ||
 | Zangief |Hardest| | ❌ |  | ✅ |  | | ❌ |  ||
 
