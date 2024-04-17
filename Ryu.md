@@ -4,7 +4,7 @@
 | ------- | ----------- |
 |↓ ↙ ← K| Hurricane Kick |
 |↓ ↘ → P| Hadoken |
-|↓ ↘ → K| Dragonlash kick |
+|↓ ↘ → K| Donkey kick |
 |→ ↓ ↘ P| Dragon Punch |
 
 ### Combos
