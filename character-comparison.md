@@ -10,4 +10,5 @@
 | Ken |Shoto| Y | | | | | |
 | Kimberly | Ninja|  | | | | Y | Y |
 | Ryu |Shoto| Y | | | | | |
+| Zangief |Grappler|  | | Y | | | |
 
