@@ -1,6 +1,6 @@
 | Character | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock | Teleport |
 | :--- | :-----------: | :--: | :--: | :--: | :--: | :--: |
-| Blanka  |  | | | Y | | |
+| Blanka  |  | | | Y | Y | |
 | Chun Li  | Y | | | | | |
 | Dhalsim | Y | | | | | Y |
 | Guile | Y | | | Y | | |
