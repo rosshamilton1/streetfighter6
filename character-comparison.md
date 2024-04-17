@@ -3,7 +3,7 @@
 | Aki  || | ✅ | | | | | Y | | slow poison ball recovery |
 | Blanka  |Medium| BlankaBalls| ❌ |  | | | Y | Y | ||
 | Cammy |Medium| | ❌ | | | | | | ||
-| Chun Li |Hard| | ✅ |  | | | | | ||
+| Chun Li |Hard| Stance | ✅ |  | | | | | ||
 | Deejay |Hard| | ✅ | | | | | | ||
 | Dhalsim |Hardest| | ✅ | | | | | | Y ||
 | E Honda |V Easy| | ❌ |  | | Y | Y | | Y ||
