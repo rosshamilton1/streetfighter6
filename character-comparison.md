@@ -3,21 +3,21 @@
 | Aki  || ||  | | | Y | Y | |
 | Blanka  |Medium| BlankaBalls||  | | | Y | Y | |
 | Cammy |Medium| || Y | | | | | |
-| Chun Li |Hard| || Y | | | | | |
-| Deejay |Hard| || Y | | | | | |
-| Dhalsim |Hardest| || Y | | | | | Y |
-| E Honda |V Easy| |Sumo|  | | Y | Y | | Y |
-| Guile |V Easy| || Y | | | Y | | |
-| Jamie |Hardest| drinks|| | | Y | | Y | |
-| JP |Hard| || | | Y | | Y | |
-| Juri |Medium| || | | Y | | Y | |
-| Ken |Easy| |Shoto| Y | | | | | |
-| Kimberly |Hard| Cans| Ninja|  | | | | Y | Y |
-| Lilly |V Easy| | Ninja|  | | | | Y | Y |
-| Luke |Easy| Perfect mech|Shoto| Y | | | | | |
-| Manon |Medium| levels up | |  | | |Y |  |  |
-| Marisa |Easy| | |  | | | |  |  |
-| Ryu |Easy| Denjin |Shoto| Y | | | | | |
-| Zangief |Hardest| |Grappler|  | | Y | | | |
+| Chun Li |Hard| | Y |  | | | | | |
+| Deejay |Hard| | Y | | | | | | |
+| Dhalsim |Hardest| | Y | | | | | | Y |
+| E Honda |V Easy| | N |  | | Y | Y | | Y |
+| Guile |V Easy| | Y | | | | Y | | |
+| Jamie |Hardest| drinks| N | | | Y | | Y | |
+| JP |Hard| |Y| | | Y | | Y | |
+| Juri |Medium| |N| | | Y | | Y | |
+| Ken |Easy| | Y | Y | | | | | |
+| Kimberly |Hard| Cans| Y|  | | | | Y | Y |
+| Lilly |V Easy| | N |  | | | | Y | Y |
+| Luke |Easy| Perfect mech| Y | Y | | | | | |
+| Manon |Medium| levels up | N |  | | |Y |  |  |
+| Marisa |Easy| | N |  | | | |  |  |
+| Ryu |Easy| Denjin | Y | Y | | | | | |
+| Zangief |Hardest| | N |  | | Y | | | |
 
 * for beginners
