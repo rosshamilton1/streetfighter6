@@ -23,3 +23,27 @@
 | Zangief |Hardest| | ❌ |  | ✅ |  | | ❌ |  ||
 
 * for beginners
+
+| Character | Strengths | Weaknesses |
+| :--- | :-- |  :--- |
+| Aki  | slow fireball + fast drive rush <br> v strong OKI <br> burnout pressure <br> great stun combos <br> good anti-fireball tools <br> good strike-throw meta mind games after poison | slow poison ball recovery | |
+| Akuma | | |
+| Blanka | | | 
+| Cammy  | | |
+| Chun Li | | |
+| Deejay | | |
+| Dhalsim | | | 
+| E Honda | | |
+| Guile | | |
+| Jamie | | |
+| JP | | |
+| Juri | | |
+| Ken | |Everybody knows how to play against shotos|
+| Kimberly | | |
+| Lilly  | |
+| Luke  | |Everybody knows how to play against shotos|
+| Manon |  ||
+| Marisa | | |
+| Rashid | | |
+| Ryu | |Everybody knows how to play against shotos|
+| Zangief |  ||
