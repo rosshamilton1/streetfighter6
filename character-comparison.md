@@ -12,14 +12,14 @@
 | Jamie |Hardest| drinks| ❌ | | ✅ | Y | | ❌ | | |
 | JP |Hard| | ✅ | | ✅ |  | | ✅ | | |
 | Juri |Medium| Stocks | ✅ | | | Y | | ❌ | | |
-| Ken |Easy| | ✅ |  | | | | ❌ | ||
+| Ken |Easy| | ✅ |  | | | | ❌ | |Everybody knows how to play against shotos|
 | Kimberly |Hard| Cans| ❌ |  | ✅ air | | | ❌ |  ||
 | Lilly |V Easy| | ❌ |  | | ✅| | ❌ |  ||
-| Luke |Easy| Perfect mech| ✅ |  | | | |❌ | ||
+| Luke |Easy| Perfect mech| ✅ |  | | | |❌ | |Everybody knows how to play against shotos|
 | Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
 | Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |  ||
 | Rashid || | ✅ |  | ❌ | | | ❌ | ||
-| Ryu |Easy| Denjin | ✅ |  | ❌ | | | ❌ | ||
+| Ryu |Easy| Denjin | ✅ |  | ❌ | | | ❌ | |Everybody knows how to play against shotos|
 | Zangief |Hardest| | ❌ |  | ✅ |  | | ❌ |  ||
 
 * for beginners
