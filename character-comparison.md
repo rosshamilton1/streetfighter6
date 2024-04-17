@@ -7,6 +7,6 @@
 | Guile || Y | | | Y | | |
 | Jamie || | | Y | | Y | |
 | Ken |Shoto| Y | | | | | |
-| Kimberly ||  | | | | Y | Y |
+| Kimberly | Ninja|  | | | | Y | Y |
 | Ryu |Shoto| Y | | | | | |
 
