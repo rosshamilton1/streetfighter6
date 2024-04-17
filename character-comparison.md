@@ -18,6 +18,6 @@
 | Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
 | Marisa |Easy| | ❌ |  | | | | ❌ |  ||
 | Ryu |Easy| Denjin | ✅ | Y | | | | ❌ | ||
-| Zangief |Hardest| | ❌ |  | | ✅ | | ❌ |  ||
+| Zangief |Hardest| | ❌ |  | ✅ |  | | ❌ |  ||
 
 * for beginners
