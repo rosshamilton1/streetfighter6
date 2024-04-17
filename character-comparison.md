@@ -3,16 +3,16 @@
 | Aki  || | ✅ | | | | | ❌ | | slow poison ball recovery |
 | Blanka  |Medium| BlankaBalls| ❌ |  | ✅ | | Y | ❌ | ||
 | Cammy |Medium| | ❌ | | | | | ❌ | ||
-| Chun Li |Hard| Stance | ✅ |  | | | | ❌ | ||
+| Chun Li |Hard| Stance | ✅ |  | ✅ air | | | ❌ | ||
 | Deejay |Hard| | ✅ | | | | | ❌ | ||
 | Dhalsim |Hardest| | ✅ | | | | | ✅ | Y ||
 | E Honda |V Easy| | ❌ |  | ✅ | Y | Y | ❌ | Y ||
-| Guile |V Easy| | ✅ | | | | Y | ❌ | ||
+| Guile |V Easy| | ✅ | |  ✅ air | | Y | ❌ | ||
 | Jamie |Hardest| drinks| ❌ | | ✅ | Y | | ❌ | ||
 | JP |Hard| | ✅ | | ✅ | Y | | ✅ | ||
 | Juri |Medium| Stocks | ✅ | | | Y | | ❌ | ||
 | Ken |Easy| | ✅ | Y | | | | ❌ | ||
-| Kimberly |Hard| Cans| ❌ |  | ✅ aerial | | | ❌ | Y ||
+| Kimberly |Hard| Cans| ❌ |  | ✅ air | | | ❌ | Y ||
 | Lilly |V Easy| | ❌ |  | | ✅| | ❌ | Y ||
 | Luke |Easy| Perfect mech| ✅ | Y | | | |❌ | ||
 | Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
