@@ -15,9 +15,9 @@
 | Kimberly |Hard| Cans| ❌ |  | | | | Y | Y ||
 | Lilly |V Easy| | ❌ |  | | | | Y | Y ||
 | Luke |Easy| Perfect mech| ✅ | Y | | | | | ||
-| Manon |Medium| levels up | ❌ |  | | |Y |  |  ||
-| Marisa |Easy| | ❌ |  | | | |  |  ||
-| Ryu |Easy| Denjin | ✅ | Y | | | | | ||
-| Zangief |Hardest| | ❌ |  | | Y | | | ❌ ||
+| Manon |Medium| levels up | ❌ |  | | |Y | ❌ |  ||
+| Marisa |Easy| | ❌ |  | | | | ❌ |  ||
+| Ryu |Easy| Denjin | ✅ | Y | | | | ❌ | ||
+| Zangief |Hardest| | ❌ |  | | Y | | ❌ |  ||
 
 * for beginners
