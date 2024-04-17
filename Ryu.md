@@ -7,6 +7,7 @@
 |↓ ↘ → K| Donkey kick |
 |→ ↓ ↘ P| Dragon Punch |
 |↓ ↙ ← P| Hashogeki |
+|↓ ↓ P| Denjin Charge |
 
 ### Combos
 | Do this | Descripton |
