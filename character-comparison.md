@@ -1,6 +1,6 @@
 | Character | EaseOfUse* | UnusualMechanism | projectiles| placeholder | CommandGrab |  Charge | Stock | Teleport | Disadvantages |
 | :--- | :-- | :-- | :-----------: | :--: | :-- | :--: | :--: | :--: | :-- |
-| Aki  || | ✅ | | | | | ❌ | | slow poison ball recovery | |
+| Aki  || | ✅ | | | | | ❌ | | slow poison ball recovery |
 | Akuma |Easy| Denjin | ✅ |  | ❌ | | | ✅ | | |
 | Blanka  |Medium| BlankaBalls| ❌ |  | ✅ | | Y | ❌ | | | 
 | Cammy |Medium| | ❌ | | | | | ❌ | | |
@@ -18,7 +18,7 @@
 | Luke |Easy| Perfect mech| ✅ |  | | | |❌ | ||
 | Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
 | Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |  ||
-| Rashid |Easy| | ✅ |  | ❌ | | | ❌ | ||
+| Rashid || | ✅ |  | ❌ | | | ❌ | ||
 | Ryu |Easy| Denjin | ✅ |  | ❌ | | | ❌ | ||
 | Zangief |Hardest| | ❌ |  | ✅ |  | | ❌ |  ||
 
