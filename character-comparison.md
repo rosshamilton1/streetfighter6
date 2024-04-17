@@ -3,9 +3,10 @@
 | Blanka  ||  | | | Y | Y | |
 | Chun Li  || Y | | | | | |
 | Dhalsim || Y | | | | | Y |
+| E Honda |Sumo|  | | Y | | | Y |
 | Guile || Y | | | Y | | |
 | Jamie || | | Y | | Y | |
-| Ken || Y | | | | | |
+| Ken |Shoto| Y | | | | | |
 | Kimberly ||  | | | | Y | Y |
-| Ryu || Y | | | | | |
+| Ryu |Shoto| Y | | | | | |
 
