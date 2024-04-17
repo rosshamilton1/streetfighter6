@@ -6,8 +6,8 @@
 | Cammy |Medium| | ❌ | | | | | ❌ | | |
 | Chun Li |Hard| Stance | ✅ |  | ✅ air | | | ❌ | | |
 | Deejay |Hard| | ✅ | | | | | ❌ | | |
-| Dhalsim |Hardest| | ✅ | | | | | ✅ | Y | | 
-| E Honda |V Easy| | ❌ |  | ✅ | Y | Y | ❌ | Y | |
+| Dhalsim |Hardest| | ✅ | | | | | ✅ |  | | 
+| E Honda |V Easy| | ❌ |  | ✅ | Y | Y | ❌ |  | |
 | Guile |V Easy| | ✅ | |  ✅ air | | Y | ❌ | | |
 | Jamie |Hardest| drinks| ❌ | | ✅ | Y | | ❌ | | |
 | JP |Hard| | ✅ | | ✅ | Y | | ✅ | | |
