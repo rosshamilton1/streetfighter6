@@ -1,6 +1,6 @@
 | Character | EaseOfUse* | UnusualMechanism | projectiles|  | CommandGrab |  Charge | Stock | Teleport | Disadvantages |
 | :--- | :-- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: | :-- |
-| Aki  || || - [x] | | | | Y | | slow poison ball recovery |
+| Aki  || |&#x2611;| - [x] | | | | Y | | slow poison ball recovery |
 | Blanka  |Medium| BlankaBalls||  | | | Y | Y | ||
 | Cammy |Medium| || Y | | | | | ||
 | Chun Li |Hard| | Y |  | | | | | ||
