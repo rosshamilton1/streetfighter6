@@ -1,4 +1,4 @@
-| Character | EaseOfUse* | UnusualMechanism | projectiles| placeholder | CommandGrab |  Charge | Stock | Teleport | Strengths | Weaknesses |
+| Character | EaseOfUse* | UnusualMechanism | projectiles| antiproject tools | CommandGrab |  Charge | Stock | Teleport | Strengths | Weaknesses |
 | :--- | :-- | :-- | :-----------: | :--: | :-- | :--: | :--: | :--: | :-- | :--- |
 | Aki  || | ✅ | | ✅ | ? | N | ❌ | slow fireball + fast drive rush <br> v strong OKI <br> burnout pressure <br> great stun combos <br> good anti-fireball tools | slow poison ball recovery | |
 | Akuma |Easy| Denjin | ✅ |  | ❌ | | | ✅ | | |
