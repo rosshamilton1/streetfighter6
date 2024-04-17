@@ -8,16 +8,16 @@
 | Dhalsim |Hardest| | ✅ | | | | | ✅ | Y ||
 | E Honda |V Easy| | ❌ |  | | Y | Y | ❌ | Y ||
 | Guile |V Easy| | ✅ | | | | Y | ❌ | ||
-| Jamie |Hardest| drinks| ❌ | | | Y | | ❌ | ||
+| Jamie |Hardest| drinks| ❌ | | ✅ | Y | | ❌ | ||
 | JP |Hard| | ✅ | | | Y | | ✅ | ||
 | Juri |Medium| Stocks | ✅ | | | Y | | ❌ | ||
 | Ken |Easy| | ✅ | Y | | | | ❌ | ||
 | Kimberly |Hard| Cans| ❌ |  | | | | ❌ | Y ||
-| Lilly |V Easy| | ❌ |  | | | | ❌ | Y ||
+| Lilly |V Easy| | ❌ |  | | ✅| | ❌ | Y ||
 | Luke |Easy| Perfect mech| ✅ | Y | | | |❌ | ||
-| Manon |Medium| levels up | ❌ |  | | |Y | ❌ |  ||
+| Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
 | Marisa |Easy| | ❌ |  | | | | ❌ |  ||
 | Ryu |Easy| Denjin | ✅ | Y | | | | ❌ | ||
-| Zangief |Hardest| | ❌ |  | | Y | | ❌ |  ||
+| Zangief |Hardest| | ❌ |  | | ✅ | | ❌ |  ||
 
 * for beginners
