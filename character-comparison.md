@@ -15,7 +15,7 @@
 | Ken |Easy| | ✅ |  | | | | ❌ | ||
 | Kimberly |Hard| Cans| ❌ |  | ✅ air | | | ❌ |  ||
 | Lilly |V Easy| | ❌ |  | | ✅| | ❌ |  ||
-| Luke |Easy| Perfect mech| ✅ | Y | | | |❌ | ||
+| Luke |Easy| Perfect mech| ✅ |  | | | |❌ | ||
 | Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
 | Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |  ||
 | Ryu |Easy| Denjin | ✅ |  | ❌ | | | ❌ | ||
