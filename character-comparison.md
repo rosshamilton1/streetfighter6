@@ -1,23 +1,23 @@
 | Character | EaseOfUse* | UnusualMechanism | projectiles|  | CommandGrab |  Charge | Stock | Teleport | Disadvantages |
 | :--- | :-- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: | :-- |
-| Aki  || | ✅ | - [x] | | | | Y | | slow poison ball recovery |
-| Blanka  |Medium| BlankaBalls||  | | | Y | Y | ||
+| Aki  || | ✅ | | | | | Y | | slow poison ball recovery |
+| Blanka  |Medium| BlankaBalls| ❌ |  | | | Y | Y | ||
 | Cammy |Medium| || ✅ | | | | | ||
 | Chun Li |Hard| | ✅ |  | | | | | ||
 | Deejay |Hard| | ✅ | | | | | | ||
 | Dhalsim |Hardest| | ✅ | | | | | | Y ||
-| E Honda |V Easy| | N |  | | Y | Y | | Y ||
+| E Honda |V Easy| | ❌ |  | | Y | Y | | Y ||
 | Guile |V Easy| | ✅ | | | | Y | | ||
-| Jamie |Hardest| drinks| N | | | Y | | Y | ||
+| Jamie |Hardest| drinks| ❌ | | | Y | | Y | ||
 | JP |Hard| | ✅ | | | Y | | Y | ||
-| Juri |Medium| Stocks |N| | | Y | | Y | ||
+| Juri |Medium| Stocks | ✅ | | | Y | | Y | ||
 | Ken |Easy| | ✅ | Y | | | | | ||
 | Kimberly |Hard| Cans| Y|  | | | | Y | Y ||
-| Lilly |V Easy| | N |  | | | | Y | Y ||
+| Lilly |V Easy| | ❌ |  | | | | Y | Y ||
 | Luke |Easy| Perfect mech| ✅ | Y | | | | | ||
-| Manon |Medium| levels up | N |  | | |Y |  |  ||
-| Marisa |Easy| | N |  | | | |  |  ||
+| Manon |Medium| levels up | ❌ |  | | |Y |  |  ||
+| Marisa |Easy| | ❌ |  | | | |  |  ||
 | Ryu |Easy| Denjin | ✅ | Y | | | | | ||
-| Zangief |Hardest| | N |  | | Y | | | ||
+| Zangief |Hardest| | ❌ |  | | Y | | | ||
 
 * for beginners
