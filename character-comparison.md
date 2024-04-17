@@ -10,7 +10,7 @@
 | Guile |V Easy| | Y | | | | Y | | |
 | Jamie |Hardest| drinks| N | | | Y | | Y | |
 | JP |Hard| |Y| | | Y | | Y | |
-| Juri |Medium| |N| | | Y | | Y | |
+| Juri |Medium| Stocks |N| | | Y | | Y | |
 | Ken |Easy| | Y | Y | | | | | |
 | Kimberly |Hard| Cans| Y|  | | | | Y | Y |
 | Lilly |V Easy| | N |  | | | | Y | Y |
