@@ -4,11 +4,12 @@
 | Chun Li  || Y | | | | | |
 | Deejay  || Y | | |  |  | |
 | Dhalsim || Y | | | | | Y |
-| E Honda |Sumo|  | | Y | | | Y |
+| E Honda |Sumo|  | | Y | Y | | Y |
 | Guile || Y | | | Y | | |
 | Jamie || | | Y | | Y | |
 | Ken |Shoto| Y | | | | | |
 | Kimberly | Ninja|  | | | | Y | Y |
+| Marisa | |  | | | | Y | Y |
 | Ryu |Shoto| Y | | | | | |
 | Zangief |Grappler|  | | Y | | | |
 
