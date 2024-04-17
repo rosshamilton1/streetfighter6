@@ -1,6 +1,6 @@
 | Character | EaseOfUse* | UnusualMechanism | projectiles| placeholder | CommandGrab |  Charge | Stock | Teleport | Strengths | Weaknesses |
 | :--- | :-- | :-- | :-----------: | :--: | :-- | :--: | :--: | :--: | :-- | :--- |
-| Aki  || | ✅ | | ✅ | ? | N | ❌ | slow fireball + fast drive rush <br> OKI | slow poison ball recovery | |
+| Aki  || | ✅ | | ✅ | ? | N | ❌ | slow fireball + fast drive rush <br> v strong OKI  | slow poison ball recovery | |
 | Akuma |Easy| Denjin | ✅ |  | ❌ | | | ✅ | | |
 | Blanka  |Medium| BlankaBalls| ❌ |  | ✅ | | Y | ❌ | | | 
 | Cammy |Medium| | ❌ | | | | | ❌ | | |
