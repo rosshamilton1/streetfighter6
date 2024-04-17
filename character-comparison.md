@@ -1,4 +1,4 @@
-| Character | Projectiles | anti-airs | CommandGrab |  Charge | Stock |
+| Character | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock |
 | :--- | :-----------: | :--: | :--: | :--: | :--: |
 | Ryu | Y | | | | |
 | Ken | Y | | | | |
