@@ -9,7 +9,8 @@
 | Jamie || | | Y | | Y | |
 | Ken |Shoto| Y | | | | | |
 | Kimberly | Ninja|  | | | | Y | Y |
-| Marisa | |  | | | | Y | Y |
+| Manon | |  | | |Y |  |  |
+| Marisa | |  | | | |  |  |
 | Ryu |Shoto| Y | | | | | |
 | Zangief |Grappler|  | | Y | | | |
 
