@@ -1,16 +1,15 @@
-| Character | Desc | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock | Teleport |
-| :--- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: |
-| Blanka  ||  | | | Y | Y | |
-| Chun Li  || Y | | | | | |
-| Deejay  || Y | | |  |  | |
-| Dhalsim || Y | | | | | Y |
-| E Honda |Sumo|  | | Y | Y | | Y |
-| Guile || Y | | | Y | | |
-| Jamie || | | Y | | Y | |
-| Ken |Shoto| Y | | | | | |
-| Kimberly | Ninja|  | | | | Y | Y |
-| Manon | levels up|  | | |Y |  |  |
-| Marisa | |  | | | |  |  |
-| Ryu |Shoto| Y | | | | | |
-| Zangief |Grappler|  | | Y | | | |
+| Character | EaseOfUSe | Desc | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock | Teleport |
+| :--- | :-- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: |
+| Blanka  || ||  | | | Y | Y | |
+| Chun Li || || Y | | | | | |
+| Dhalsim || || Y | | | | | Y |
+| E Honda || |Sumo|  | | Y | Y | | Y |
+| Guile || || Y | | | Y | | |
+| Jamie || || | | Y | | Y | |
+| Ken || |Shoto| Y | | | | | |
+| Kimberly || | Ninja|  | | | | Y | Y |
+| Manon || | levels up|  | | |Y |  |  |
+| Marisa || | |  | | | |  |  |
+| Ryu || |Shoto| Y | | | | | |
+| Zangief || |Grappler|  | | Y | | | |
 
