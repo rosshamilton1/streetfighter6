@@ -9,7 +9,7 @@
 | E Honda |V Easy| | ❌ |  | ✅ | Y | Y | ❌ | Y ||
 | Guile |V Easy| | ✅ | | | | Y | ❌ | ||
 | Jamie |Hardest| drinks| ❌ | | ✅ | Y | | ❌ | ||
-| JP |Hard| | ✅ | | | Y | | ✅ | ||
+| JP |Hard| | ✅ | | ✅ | Y | | ✅ | ||
 | Juri |Medium| Stocks | ✅ | | | Y | | ❌ | ||
 | Ken |Easy| | ✅ | Y | | | | ❌ | ||
 | Kimberly |Hard| Cans| ❌ |  | ✅ aerial | | | ❌ | Y ||
