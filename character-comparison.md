@@ -4,5 +4,6 @@
 | Guile | Y | | | | |
 | Jamie | | | Y | | Y |
 | Ken | Y | | | | |
+| Kimberly | Y | | | | |
 | Ryu | Y | | | | |
 
