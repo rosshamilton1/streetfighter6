@@ -13,8 +13,8 @@
 | JP |Hard| | ✅ | | ✅ | Y | | ✅ | | |
 | Juri |Medium| Stocks | ✅ | | | Y | | ❌ | | |
 | Ken |Easy| | ✅ | Y | | | | ❌ | ||
-| Kimberly |Hard| Cans| ❌ |  | ✅ air | | | ❌ | Y ||
-| Lilly |V Easy| | ❌ |  | | ✅| | ❌ | Y ||
+| Kimberly |Hard| Cans| ❌ |  | ✅ air | | | ❌ |  ||
+| Lilly |V Easy| | ❌ |  | | ✅| | ❌ |  ||
 | Luke |Easy| Perfect mech| ✅ | Y | | | |❌ | ||
 | Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |  ||
 | Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |  ||
