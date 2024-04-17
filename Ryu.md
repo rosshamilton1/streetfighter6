@@ -6,6 +6,7 @@
 |↓ ↘ → P| Hadoken |
 |↓ ↘ → K| Donkey kick |
 |→ ↓ ↘ P| Dragon Punch |
+|↓ ↙ ← P| Hashogeki |
 
 ### Combos
 | Do this | Descripton |
