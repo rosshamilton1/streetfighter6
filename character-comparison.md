@@ -1,4 +1,4 @@
-| Character | EaseOfUSe | Desc | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock | Teleport |
+| Character | EaseOfUse* | UnusualMechanism | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock | Teleport |
 | :--- | :-- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: |
 | Blanka  |Medium| ||  | | | Y | Y | |
 | Cammy |Medium| || Y | | | | | |
@@ -13,9 +13,10 @@
 | Ken |Easy| |Shoto| Y | | | | | |
 | Kimberly |Hard| | Ninja|  | | | | Y | Y |
 | Lilly |V Easy| | Ninja|  | | | | Y | Y |
-| Luke |Easy| |Shoto perfect mech| Y | | | | | |
+| Luke |Easy| Perfect mech|Shoto| Y | | | | | |
 | Manon |Medium| | levels up|  | | |Y |  |  |
 | Marisa |Easy| | |  | | | |  |  |
 | Ryu |Easy| |Shoto| Y | | | | | |
 | Zangief |Hardest| |Grappler|  | | Y | | | |
 
+* for beginners
