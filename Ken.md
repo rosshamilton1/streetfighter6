@@ -16,4 +16,11 @@
 | ------- | ---------- |
 |↓ MK , ↓ ↘ → P | Crouching kick into Hadoken |  
 |MP, HP, → ↓ ↘ P | Medium Punch, Heavy Punch, Dragonpunch |   
+
+### Super Art
+| Do this | Descripton |
+| ------- | ---------- |
+|↓ MK , ↓ ↘ → P | Crouching kick into Hadoken |  
+|MP, HP, → ↓ ↘ P | Medium Punch, Heavy Punch, Dragonpunch |   
+ 
 ← → ↑ ↓ ↖ ↗ ↘ ↙
