@@ -1,5 +1,6 @@
 | Character | EaseOfUse* | UnusualMechanism | Projectiles | anti-projectiles | CommandGrab |  Charge | Stock | Teleport |
 | :--- | :-- | :-- | :-----------: | :--: | :--: | :--: | :--: | :--: |
+| Aki  || ||  | | | Y | Y | |
 | Blanka  |Medium| BlankaBalls||  | | | Y | Y | |
 | Cammy |Medium| || Y | | | | | |
 | Chun Li |Hard| || Y | | | | | |
