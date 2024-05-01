@@ -16,7 +16,7 @@
 | Kimberly |Hard| Cans| ❌ |  | ✅ air | | | ❌ |
 | Lilly |V Easy| | ❌ |  | | ✅| | ❌ |
 | Luke |Easy| Perfect mech| ✅ |  | | | |❌ |
-| Manon |Medium| levels up | ❌ |  | ✅ | |Y | ❌ |
+| Manon |Medium| Medals level up | ❌ |  | ✅ | |Y | ❌ |
 | Marisa |Easy| | ❌ |  | ✅ stance| | | ❌ |
 | Rashid || | ✅ |  | ❌ | | | ❌ |
 | Ryu |Easy| Denjin | ✅ |  | ❌ | | | ❌ |
