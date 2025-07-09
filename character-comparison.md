@@ -1,4 +1,4 @@
-| Character | EaseOfUse* | UnusualMechanism | projectiles| anti-projectile tools | CommandGrab |  Charge | Stock | Teleport | 
+| Character | EaseOfUse* | UnusualMechanism | projectiles| anti-projectile tools | Overhead | CommandGrab |  Charge | Stock | Teleport | 
 | :--- | :-- | :-- | :-----------: | :--: | :-- | :--: | :--: | :--: |
 | Aki  || Poison | ✅ | v good  | ✅ | ? | N | ❌ | 
 | Akuma |Easy| Denjin | ✅ |  | ❌ | | | ✅ | 
